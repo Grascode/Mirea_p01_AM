@@ -11,5 +11,10 @@ public class Application {
         Gardener oleg = new Gardener();
         oleg.filter(plant);
         System.out.println(plant.getName());
+        System.out.println("""
+            Выполнил работу: Меньщиков Александр
+            Группа: РИБО-04-22
+            Вариант: 4
+            """);
     }
 }

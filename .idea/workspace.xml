@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5d2bd08-5d95-408d-be4b-b69fe56ece86" name="Changes" comment="JAva">
-      <change afterPath="$PROJECT_DIR$/src/homework1/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework1/Gardener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework1/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/Passport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework2/passportControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -26,9 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2dW0v0avOIDy6gY6qYcSyJ7xUvp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +43,7 @@
   "keyToString": {
     "Application.Application.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.passportControl.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -48,6 +51,26 @@
     "onboarding.tips.debug.path": "C:/Users/Sasha/IdeaProjects/Mirea_p01_AM/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="passportControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2.passportControl" />
+      <module name="Mirea_p01_AM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.passportControl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710109184318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JAva">
+      <option name="closed" value="true" />
+      <created>1710115771908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710115771908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JAva">
+      <option name="closed" value="true" />
+      <created>1710115983351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710115983351</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

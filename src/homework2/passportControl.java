@@ -26,7 +26,7 @@ public class passportControl {
     private static boolean NumberDetect(int Number) {
         return pass.stream().anyMatch(x -> x.getNumber() == Number);
     }
-    public static void addNew(){
+    public static void addNew() {
         System.out.println("Введите ФИО ");
         String fName = scanner.nextLine();
 //        for(Passport item: pass){
@@ -85,7 +85,7 @@ public class passportControl {
         showPass();
         userInterface();
     }
-    public static void userInterface(){
+    public static void userInterface() {
         System.out.println("1: Добавить новый пропуск \n" +
                 "2: Вывести все пропуска \n" +
                 "3: Закончить программу");
